@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kapil Kumar JHa</h1>
+<h1 align="center">Hi 👋, I'm Kapil Kumar Jha</h1>
 <h3 align="center">A passionate for Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
